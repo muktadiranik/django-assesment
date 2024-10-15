@@ -29,7 +29,7 @@ This is a Django-based REST API service that allows users to manage books and au
 
 ```bash
 git clone https://github.com/muktadiranik/django-assesment.git
-cd library-system
+cd library
 python -m venv venv
 source venv/bin/activate  # For Linux/macOS
 venv\Scripts\activate  # For Windows
